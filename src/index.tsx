@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { App } from "./app/App";
-import { Routes } from "./app/routes";
+// import { Routes } from "./app/routes";
 
 import reportWebVitals from "./reportWebVitals";
 
